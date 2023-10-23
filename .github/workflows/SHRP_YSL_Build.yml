@@ -6,23 +6,23 @@ on:
       DeviceTree_Name:
         description: 'DeviceTree_Name'
         required: true
-        default: 'ysl'
+        default: 'a21s'
       DeviceTree_URL:
         description: 'DeviceTree_URL'
         required: true
-        default: 'https://github.com/liangsheng8708/android_device_xiaomi_ysl_shrp.git'
+        default: 'https://github.com/DozNaka/android_device_samsung_a21s.git'
       Branches:
         description: 'Branches'
         required: true
-        default: 'v3_9.0'
+        default: 'TWRP'
       DeviceTree_Path:
         description: 'DeviceTree_Path'
         required: true
-        default: 'device/xiaomi/ysl'
+        default: 'device/samsung/a21s'
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
-        default: '20230130'
+        default: 'a21s'
 
 
 
