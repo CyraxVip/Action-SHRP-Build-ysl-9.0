@@ -6,23 +6,23 @@ on:
       DeviceTree_Name:
         description: 'DeviceTree_Name'
         required: true
-        default: 'vela'
+        default: 'a21s'
       DeviceTree_URL:
         description: 'DeviceTree_URL'
         required: true
-        default: 'https://github.com/liangsheng8708/SHRP_device_xiaomi_vela.git'
+        default: 'https://github.com/DozNaka/android_device_samsung_a21s.git'
       Branches:
         description: 'Branches'
         required: true
-        default: 'v3_9.0'
+        default: ''
       DeviceTree_Path:
         description: 'DeviceTree_Path'
         required: true
-        default: 'device/xiaomi/vela'
+        default: 'device/samsung/a21s'
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
-        default: '20230130'
+        default:
 
 
 
